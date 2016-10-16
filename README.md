@@ -1,2 +1,2 @@
-# statistics
-Statistical Functions and Charts based on Javascript frameworks like Google Charts or freely coded in PHP and CSS
+# Histogram
+This branch contains the Histogram calling file and PHP class files only.
